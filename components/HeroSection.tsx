@@ -42,7 +42,7 @@ export default function HeroSection() {
           className="relative mb-8"
         >
           <div className="absolute -inset-3 rounded-full bg-[radial-gradient(circle,rgba(93,202,165,0.18),transparent_70%)]" />
-          <div className="relative h-[168px] w-[168px] rounded-full bg-gradient-to-br from-[#5DCAA5] via-[#378ADD] to-[#7F77DD] p-[3px]">
+          <div className="relative h-[175px] w-[175px] rounded-full bg-gradient-to-br from-[#5DCAA5] via-[#378ADD] to-[#7F77DD] p-[3px]">
             <div className="relative h-full w-full overflow-hidden rounded-full border-[3px] border-background">
               <Image
                 src="/Ziad.png"
