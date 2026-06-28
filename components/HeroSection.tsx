@@ -48,7 +48,7 @@ export default function HeroSection() {
                 src="/Ziad.png"
                 alt="Ziad Fayez"
                 fill
-                sizes="168px"
+                sizes="175px"
                 priority
                 className="object-cover"
               />
