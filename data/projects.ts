@@ -72,4 +72,22 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/Ziad2019/Transport",
     featured: true,
   },
+    {
+    slug: "champify",
+    title: "Champify — Athlete investment platform",
+    description:
+      "Fintech-style platform where investors buy and trade fractional \"stock\" shares in professional athletes.",
+    longDescription:
+      "Engineering the backend for Champify, a fintech-style platform where investors buy and trade fractional \"stock\" shares in professional athletes. Architected a multi-tier auth system — OTP verification, JWT, and Google OAuth2 — enforcing granular role-based permissions across investor, admin, and supervisor roles. Built a dual-asset trading engine handling both athlete stocks and signature merchandise, each with independent inventory validation. Designed MongoDB aggregation pipelines powering real-time athlete analytics segmented by sport, rank, country, age, and gender, with full Arabic/English localization across the API layer.",
+    stack: [
+      "NestJS",
+      "TypeScript",
+      "MongoDB",
+      "JWT",
+      "Google OAuth2",
+      "nestjs-i18n",
+    ],
+    githubUrl: "https://github.com/Ziad2019/champify-backend",
+    featured: true,
+  },
 ];

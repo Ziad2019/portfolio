@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const bioParagraphs = [
-  "I'm a fullstack developer based in Giza, Egypt, with a backend-heavy background in Node.js, Express, and NestJS. Over the past year I've worked remotely with teams building production platforms for clients in Saudi Arabia — a food-ordering marketplace and a multi-dashboard car-booking system among them.",
+  "I'm a fullstack developer based in Cairo, Egypt, with a backend-heavy background in Node.js, Express, and NestJS. Over the past 2+ years I've worked remotely with teams building production platforms for clients in Saudi Arabia — a food-ordering marketplace, a multi-dashboard car-booking system, and a fintech-style athlete investment platform among them.",
   "Most of my work centers on the parts of an application users never see directly: authentication flows, role-based access control, payment integrations, and the database design that holds it all together. Over time I picked up React and Next.js to build the interfaces that sit on top of that backend work, so I can take a feature from schema to screen without handing it off.",
   "I graduated from Helwan University in 2023 with a degree in Computers and Artificial Intelligence, and I've been building production systems and personal projects ever since.",
 ];

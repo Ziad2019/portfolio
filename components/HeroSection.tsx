@@ -77,10 +77,10 @@ export default function HeroSection() {
           <span className="font-semibold text-accent">NestJS</span> and{" "}
           <span className="font-semibold text-[#79c0ff]">Next.js</span>. I
           build secure backend systems — auth, payments, role-based access —
-          and the React interfaces that connect to them. Based in Giza,
+          and the React interfaces that connect to them. Based in Cairo,
           Egypt, with{" "}
-          <span className="font-semibold text-accent">1+ year</span> of
-          remote experience.
+          <span className="font-semibold text-accent">2+ year</span> of
+           experience.
         </motion.p>
 
         {/* Skill badges */}
